@@ -1,0 +1,7 @@
+C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\задание  (1-3)\bin\Debug\задание  (1-3).exe.config
+C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\задание  (1-3)\bin\Debug\задание  (1-3).exe
+C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\задание  (1-3)\bin\Debug\задание  (1-3).pdb
+C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\задание  (1-3)\obj\Debug\задание  (1-3).csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\задание  (1-3)\obj\Debug\задание  (1-3).csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\задание  (1-3)\obj\Debug\задание  (1-3).exe
+C:\Users\Dell\Documents\GitHub\Osnovi-Programmirovania\задание  (1-3)\obj\Debug\задание  (1-3).pdb
